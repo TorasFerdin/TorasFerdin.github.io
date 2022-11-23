@@ -1,0 +1,10 @@
+<!-- Questo è un commento -->
+
+<!--
+.gitignore ignora le cartelle e/o file specificati per non chiederti sempre se devono essere aggiornati su git
+nomeCartella/
+nomeCartella/nomeFile.estensioneDelFile
+-->
+<!-- La roba esclusa diventa di colore giallo(IDE: Webstorm) come si vede nell'esempio della cartella "test" -->
+test/
+.idea/
